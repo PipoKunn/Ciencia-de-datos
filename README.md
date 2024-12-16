@@ -1,5 +1,7 @@
 \documentclass{article}
-\usepackage{graphicx} % Required for inserting images
+\usepackage{graphicx} % Required for inserting images.
+#
+
 
 #
 \usepackage[utf8]{inputenc}
