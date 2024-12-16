@@ -1,7 +1,7 @@
 \documentclass{article}
 \usepackage{graphicx} % Required for inserting images
 
-
+#
 \usepackage[utf8]{inputenc}
 
 \title{Proyecto de Ciencia de Datos}
